@@ -1,0 +1,44 @@
+  /*******************TAG SELECTORS*******************/
+
+  body
+  {background-color: black;}
+
+  h1
+  {color: chocolate;
+  font-family: comic sans ms;}
+
+  p:hover
+  {color: green;}
+
+  h1:hover
+  {color: green;}
+
+  img:hover
+  {border-color: green;}
+
+  /*******************CLASS SELECTORS*******************/
+
+  .apple
+  {border-color: red;
+  border-style: solid;}
+
+  .orange
+  {border-color: orange;
+  border-style: solid;}
+
+  .green
+  {color: palegreen;
+  font-family: comic sans ms;}
+
+  .blue
+  {color: lightskyblue;
+  font-family: comic sans ms;}
+
+  .purple
+  {color: magenta;
+  font-family: comic sans ms;}
+
+  .circular
+  {border-radius: 10%;}
+
+  /*******************ID SELECTORS*******************/
